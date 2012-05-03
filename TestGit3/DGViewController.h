@@ -10,4 +10,6 @@
 
 @interface DGViewController : UIViewController
 
+@property (nonatomic, retain) NSString *test;
+
 @end

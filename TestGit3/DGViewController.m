@@ -14,6 +14,8 @@
 
 @implementation DGViewController
 
+@synthesize  test = _test;
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
