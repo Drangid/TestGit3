@@ -12,4 +12,6 @@
 
 @property (nonatomic, retain) NSString *test;
 
+//I add a comment.
+
 @end
