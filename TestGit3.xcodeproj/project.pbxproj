@@ -22,13 +22,13 @@
 		8131415F1552DB1E004CC0DD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		813141611552DB1E004CC0DD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		813141631552DB1E004CC0DD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		813141671552DB1E004CC0DD /* TestGit3-Info.plist */ = {isa = PBXFileReference; path = "TestGit3-Info.plist"; sourceTree = "<group>"; };
+		813141671552DB1E004CC0DD /* TestGit3-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGit3-Info.plist"; sourceTree = "<group>"; };
 		813141691552DB1E004CC0DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8131416B1552DB1E004CC0DD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8131416D1552DB1E004CC0DD /* TestGit3-Prefix.pch */ = {isa = PBXFileReference; path = "TestGit3-Prefix.pch"; sourceTree = "<group>"; };
-		8131416E1552DB1E004CC0DD /* DGAppDelegate.h */ = {isa = PBXFileReference; path = DGAppDelegate.h; sourceTree = "<group>"; };
+		8131416D1552DB1E004CC0DD /* TestGit3-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGit3-Prefix.pch"; sourceTree = "<group>"; };
+		8131416E1552DB1E004CC0DD /* DGAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DGAppDelegate.h; sourceTree = "<group>"; };
 		8131416F1552DB1E004CC0DD /* DGAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DGAppDelegate.m; sourceTree = "<group>"; };
-		813141711552DB1E004CC0DD /* DGViewController.h */ = {isa = PBXFileReference; path = DGViewController.h; sourceTree = "<group>"; };
+		813141711552DB1E004CC0DD /* DGViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DGViewController.h; sourceTree = "<group>"; };
 		813141721552DB1E004CC0DD /* DGViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DGViewController.m; sourceTree = "<group>"; };
 		813141751552DB1E004CC0DD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/DGViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
